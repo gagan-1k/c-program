@@ -1,0 +1,1 @@
+The lines in  file test.text are: 2
